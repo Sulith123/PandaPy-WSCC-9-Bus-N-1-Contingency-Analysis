@@ -36,3 +36,10 @@ The final comparison of results between pandapower and PSS®E can be found in th
 * Python (pandapower)
 * PSS®E 33
 * Jupyter Notebook
+
+## Contributors
+
+- **Sulith Perera** (@Sulith123)
+- **Nuwan Chinthaka Athukorala** (@nuwanathukorala)
+
+
